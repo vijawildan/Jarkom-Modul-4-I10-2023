@@ -378,3 +378,14 @@ iface eth0 inet static
       netmask 255.255.254.0
       gateway 192.233.0.1
 ```
+
+#### C. ROUTING
+```
+route add -net 192.234.64.0 netmask 255.255.255.128 gw 192.234.0.2          #A14
+route add -net 192.234.224.0 netmask 255.255.255.224 gw 192.234.128.2           #A15
+route add -net 192.234.200.0 netmask 255.255.252.0 gw 192.234.128.2         #A21
+route add -net 192.234.208.0 netmask 255.255.252.0 gw 192.234.128.2         #A17
+route add -net 192.234.240.0 netmask 255.255.255.252 gw 192.234.128.2         #A16
+route add -net 192.234.192.0 netmask 255.255.255.252 gw 192.234.128.2         #A20
+route add -net 192.234..0 netmask 255.255.252.0 gw 192.234.128.2         #A18
+```
