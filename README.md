@@ -12,6 +12,7 @@ Computer Network Practicum 4th Module I10
 
 ### Cisco Packet Tracer (CPT)
 ![TopoCPT](https://media.discordapp.net/attachments/919468862725046322/1180431244379557948/image.png?ex=657d6544&is=656af044&hm=938631356e54fe3256d0ba3bb1a4f86df6f7ed0dd1b8b9d74e8ff2b966e5735a&=&format=webp&quality=lossless&width=1375&height=662)
+![WhatsApp Image 2023-12-02 at 21 01 35](https://github.com/vijawildan/Jarkom-Modul-4-I10-2023/assets/71499142/10d450cd-5891-49d2-a88d-75a334125c26)
 
 ## B. VLSM for CPT
 
