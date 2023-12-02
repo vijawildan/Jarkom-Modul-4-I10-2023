@@ -21,7 +21,16 @@ According to the topology, we found a total of 21 subnet.
 
 
 ## C. CIDR With GNS3
+![GNS3Topo](https://media.discordapp.net/attachments/919468862725046322/1180431662782349362/image.png?ex=657d65a7&is=656af0a7&hm=d4e78823519d3efce7972aad5552d5f067094a05deddb0565c9262c59a960932&=&format=webp&quality=lossless&width=1005&height=661)
 ### 1. CIDR SUBNETTING
+![CPTCIDR1](https://media.discordapp.net/attachments/919468862725046322/1180457184073621524/image.png?ex=657d7d6c&is=656b086c&hm=dce19e55ad86232a7bb6569e9419be8b709a273603de80013240a5a2a350a2ee&=&format=webp&quality=lossless&width=1375&height=662  )
+![CPTCIDR2](https://cdn.discordapp.com/attachments/919468862725046322/1180457202088157204/image.png?ex=657d7d70&is=656b0870&hm=3079807e707650914953d3074c1736e109bcdcc8c720e475138a693922535fd6&)
+![CPTCIDR3](https://cdn.discordapp.com/attachments/919468862725046322/1180457219523874837/image.png?ex=657d7d74&is=656b0874&hm=52438e967d36bf945116d9f0685a96a7fcea4e743b6e190fed372274e425147a&)
+![CPTCIDR4](https://cdn.discordapp.com/attachments/919468862725046322/1180457235923611718/image.png?ex=657d7d78&is=656b0878&hm=5c3c5cbf187fac9a591c5f44e69d91c7c80b414e9e629686614a092c46e1094e&    )
+![CPTCIDR5](https://cdn.discordapp.com/attachments/919468862725046322/1180457247319539753/image.png?ex=657d7d7b&is=656b087b&hm=e3d3edce2486f15a421257c7f7a467e2a2a953e23fe7b3229e8648ac470f8f7f&)
+![CPTCIDR6](https://cdn.discordapp.com/attachments/919468862725046322/1180457267473166366/image.png?ex=657d7d80&is=656b0880&hm=2c0cd963ebc916ec0e5b196e1e723952c32398fbf9fc1675628e0f0ba89c4b3a&)
+![CPTCIDR7](https://media.discordapp.net/attachments/919468862725046322/1180457287781978112/image.png?ex=657d7d85&is=656b0885&hm=c1c3619512a2aef0cfd8dae69966d79731f9ba4de1ab66f8e24265dd4b7af8b0&=&format=webp&quality=lossless&width=1375&height=662)
+![CPTCIDR8](https://media.discordapp.net/attachments/919468862725046322/1180457304928296990/image.png?ex=657d7d89&is=656b0889&hm=060b9964c224e78c18210e9ae09c995b129785cc8e88e46c5a75b9e2915f50cd&=&format=webp&quality=lossless&width=1375&height=662)
 ### 2. CIDR ROUTING
 #### A. ROUTER
 - 1. AURA
