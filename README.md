@@ -20,6 +20,14 @@ According to the topology, we found a total of 21 subnet.
 
 ![VLSMCPT](https://media.discordapp.net/attachments/919468862725046322/1180437763171045388/image.png?ex=657d6b56&is=656af656&hm=8f430bbd3ef7abfda042435cf4f18bc828718ef95844ef3fd6b921d06813e2d6&=&format=webp&quality=lossless&width=1375&height=662)
 
+### 1. Routes
+![image](https://github.com/vijawildan/Jarkom-Modul-4-I10-2023/assets/71499142/d45e18b6-1972-4920-98b4-361bb4fc329f)
+
+### 2. Tree
+![Untitled Diagram drawio](https://github.com/vijawildan/Jarkom-Modul-4-I10-2023/assets/71499142/28b6f222-febb-4c67-ba3a-14236b769898)
+
+### 3. Subnetting
+![image](https://github.com/vijawildan/Jarkom-Modul-4-I10-2023/assets/71499142/762e0242-54ef-435c-9625-261a9fc3aaf6)
 
 ## C. CIDR With GNS3
 ![GNS3Topo](https://media.discordapp.net/attachments/919468862725046322/1180431662782349362/image.png?ex=657d65a7&is=656af0a7&hm=d4e78823519d3efce7972aad5552d5f067094a05deddb0565c9262c59a960932&=&format=webp&quality=lossless&width=1005&height=661)
