@@ -381,6 +381,7 @@ iface eth0 inet static
 ```
 
 #### C. ROUTING
+- 1. AURA
 ```
 route add -net 192.234.64.0 netmask 255.255.255.128 gw 192.234.0.2          #A14
 route add -net 192.234.224.0 netmask 255.255.255.224 gw 192.234.128.2           #A15
@@ -388,7 +389,54 @@ route add -net 192.234.200.0 netmask 255.255.252.0 gw 192.234.128.2         #A21
 route add -net 192.234.208.0 netmask 255.255.252.0 gw 192.234.128.2         #A17
 route add -net 192.234.240.0 netmask 255.255.255.252 gw 192.234.128.2         #A16
 route add -net 192.234.192.0 netmask 255.255.255.252 gw 192.234.128.2         #A20
-route add -net 192.234..0 netmask 255.255.252.0 gw 192.234.128.2         #A18
+route add -net 192.234.216.0 netmask 255.255.255.252 gw 192.234.128.2         #A18
+route add -net 192.234.220.0 netmask 255.255.255.248 gw 192.234.128.2         #A19
+route add -net 192.233.0.0 netmask 255.255.254.0 gw 192.233.128.2         #A1
+route add -net 192.233.4.0 netmask 255.255.255.224 gw 192.233.128.2         #A2
+route add -net 192.233.8.0 netmask 255.255.255.252 gw 192.233.128.2         #A3
+route add -net 192.233.16.0 netmask 255.255.255.0 gw 192.233.128.2         #A4
+route add -net 192.233.32.0 netmask 255.255.255.252 gw 192.233.128.2         #A5
+route add -net 192.233.96.0 netmask 255.255.255.248 gw 192.233.128.2         #A6
+route add -net 192.233.112.0 netmask 255.255.255.252 gw 192.233.128.2         #A7
+route add -net 192.233.80.0 netmask 255.255.255.252 gw 192.233.128.2         #A8
+route add -net 192.233.64.0 netmask 255.255.255.248 gw 192.233.128.2         #A9
+route add -net 192.233.72.0 netmask 255.255.255.0 gw 192.233.128.2         #A10
+```
+
+- 2. FRIEREN
+```
+route add -net 192.234.200.0 netmask 255.255.252.0 gw 192.234.240.2         #A21
+route add -net 192.234.208.0 netmask 255.255.252.0 gw 192.234.240.2         #A17
+route add -net 192.234.192.0 netmask 255.255.255.252 gw 192.234.240.2         #A20
+route add -net 192.234.216.0 netmask 255.255.255.252 gw 192.234.240.2         #A18
+route add -net 192.234.220.0 netmask 255.255.255.248 gw 192.234.240.2         #A19
+```
+
+- 3. FLAMME
+```
+route add -net 192.234.200.0 netmask 255.255.252.0 gw 192.234.192.2         #A21
+route add -net 192.234.220.0 netmask 255.255.255.248 gw 192.234.216.2         #A19
+```
+
+- 4. EISEN
+```
+route add -net 192.233.0.0 netmask 255.255.254.0 gw 192.233.32.2         #A1
+route add -net 192.233.4.0 netmask 255.255.255.224 gw 192.233.32.2         #A2
+route add -net 192.233.8.0 netmask 255.255.255.252 gw 192.233.32.2         #A3
+route add -net 192.233.16.0 netmask 255.255.255.0 gw 192.233.32.2         #A4
+route add -net 192.233.64.0 netmask 255.255.255.248 gw 192.233.80.2         #A9
+route add -net 192.233.72.0 netmask 255.255.255.0 gw 192.233.80.2         #A10
+```
+
+- 5. LINIE
+```
+route add -net 192.233.0.0 netmask 255.255.254.0 gw 192.233.8.2         #A1
+route add -net 192.233.4.0 netmask 255.255.255.224 gw 192.233.8.2         #A2
+```
+
+- 6. LAWINE
+```
+route add -net 192.233.0.0 netmask 255.255.254.0 gw 192.233.4.2         #A1
 ```
 
 **Iptables Aura**
