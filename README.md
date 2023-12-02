@@ -31,6 +31,7 @@ According to the topology, we found a total of 21 subnet.
 ![CPTCIDR6](https://cdn.discordapp.com/attachments/919468862725046322/1180457267473166366/image.png?ex=657d7d80&is=656b0880&hm=2c0cd963ebc916ec0e5b196e1e723952c32398fbf9fc1675628e0f0ba89c4b3a&)
 ![CPTCIDR7](https://media.discordapp.net/attachments/919468862725046322/1180457287781978112/image.png?ex=657d7d85&is=656b0885&hm=c1c3619512a2aef0cfd8dae69966d79731f9ba4de1ab66f8e24265dd4b7af8b0&=&format=webp&quality=lossless&width=1375&height=662)
 ![CPTCIDR8](https://media.discordapp.net/attachments/919468862725046322/1180457304928296990/image.png?ex=657d7d89&is=656b0889&hm=060b9964c224e78c18210e9ae09c995b129785cc8e88e46c5a75b9e2915f50cd&=&format=webp&quality=lossless&width=1375&height=662)
+![image](https://github.com/vijawildan/Jarkom-Modul-4-I10-2023/assets/71499142/2eb1e9c3-6fd7-4883-a21d-c3295a27d348)
 ### 2. CIDR ROUTING
 #### A. ROUTER
 - 1. AURA
