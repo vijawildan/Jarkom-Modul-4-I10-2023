@@ -390,3 +390,13 @@ route add -net 192.234.240.0 netmask 255.255.255.252 gw 192.234.128.2         #A
 route add -net 192.234.192.0 netmask 255.255.255.252 gw 192.234.128.2         #A20
 route add -net 192.234..0 netmask 255.255.252.0 gw 192.234.128.2         #A18
 ```
+
+**Iptables Aura**
+```
+iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE -s 192.233.0.0/15
+```
+
+**Setting resolv.conf each Nodes**
+```
+echo nameserver 192.168.122.1 > /etc/resolv.conf
+```
