@@ -224,3 +224,148 @@ iface eth1 inet static
       address 192.233.0.1
       netmask 255.255.254.0
 ```
+
+#### B. CLIENTS & SERVERS
+- 1. ROYALCAPITAL
+```
+auto eth0
+iface eth0 inet static
+      address 192.234.64.2
+      netmask 255.255.255.128
+      gateway 192.234.64.1
+```
+
+- 2. WILLEREGION
+```
+auto eth0
+iface eth0 inet static
+      address 192.234.64.65
+      netmask 255.255.255.128
+      gateway 192.234.64.1
+```
+
+- 3. LAKEKORIDOR
+```
+auto eth0
+iface eth0 inet static
+      address 192.234.224.2
+      netmask 255.255.255.224
+      gateway 192.234.224.1
+```
+
+- 4. APPETITREGION
+```
+auto eth0
+iface eth0 inet static
+      address 192.234.200.2
+      netmask 255.255.252.0
+      gateway 192.234.200.1
+```
+
+- 5. LAUBHILLS
+```
+auto eth0
+iface eth0 inet static
+      address 192.234.202.117
+      netmask 255.255.252.0
+      gateway 192.234.200.1
+```
+
+- 6. ROHRROAD
+```
+auto eth0
+iface eth0 inet static
+      address 192.234.208.2
+      netmask 255.255.252.0
+      gateway 192.234.208.1
+```
+
+- 7. SCHWERMOUNTAINS
+```
+auto eth0
+iface eth0 inet static
+      address 192.234.220.2
+      netmask 255.255.255.248
+      gateway 192.234.220.1
+```
+
+- 8. RICHTER
+```
+auto eth0
+iface eth0 inet static
+      address 192.233.96.2
+      netmask 255.255.255.248
+      gateway 192.233.96.1
+```
+
+- 9. REVOLTS
+```
+auto eth0
+iface eth0 inet static
+      address 192.233.96.3
+      netmask 255.255.255.248
+      gateway 192.233.96.1
+```
+
+- 10. STARK
+```
+auto eth0
+iface eth0 inet static
+      address 192.233.112.2
+      netmask 255.255.255.252
+      gateway 192.233.112.1
+```
+
+- 11. TURKREION
+```
+auto eth0
+iface eth0 inet static
+      address 192.233.64.2
+      netmask 255.255.252.0
+      gateway 192.233.64.1
+```
+
+- 12. GROBEFOREST
+```
+auto eth0
+iface eth0 inet static
+      address 192.233.72.2
+      netmask 255.255.255.0
+      gateway 192.233.72.1
+```
+
+- 13. GRANZCHANNEL
+```
+auto eth0
+iface eth0 inet static
+      address 192.233.16.2
+      netmask 255.255.255.0
+      gateway 192.233.16.1
+```
+
+- 14. BREDREGION
+```
+auto eth0
+iface eth0 inet static
+      address 192.233.4.3
+      netmask 255.255.255.224
+      gateway 192.233.4.1
+```
+
+- 15. SEIN
+```
+auto eth0
+iface eth0 inet static
+      address 192.233.0.2
+      netmask 255.255.254.0
+      gateway 192.233.0.1
+```
+
+- 16. RIEGELCANYON
+```
+auto eth0
+iface eth0 inet static
+      address 192.233.0.3
+      netmask 255.255.254.0
+      gateway 192.233.0.1
+```
