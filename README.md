@@ -1,4 +1,4 @@
-![image](https://github.com/vijawildan/Jarkom-Modul-4-I10-2023/assets/115712593/aec2d05c-2081-4613-94b5-bd081bcefd84)# Jarkom-Modul-4-I10-2023
+# Jarkom-Modul-4-I10-2023
 
 Praktikum Jaringan Komputer Modul 4 I10
 Computer Network Practicum 4th Module I10
