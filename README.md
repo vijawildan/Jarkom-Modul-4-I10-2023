@@ -1,4 +1,4 @@
-# Jarkom-Modul-4-I10-2023
+![image](https://github.com/vijawildan/Jarkom-Modul-4-I10-2023/assets/115712593/aec2d05c-2081-4613-94b5-bd081bcefd84)# Jarkom-Modul-4-I10-2023
 
 Praktikum Jaringan Komputer Modul 4 I10
 Computer Network Practicum 4th Module I10
@@ -41,7 +41,10 @@ According to the topology, we found a total of 21 subnet.
 ![CPTCIDR7](https://media.discordapp.net/attachments/919468862725046322/1180457287781978112/image.png?ex=657d7d85&is=656b0885&hm=c1c3619512a2aef0cfd8dae69966d79731f9ba4de1ab66f8e24265dd4b7af8b0&=&format=webp&quality=lossless&width=1375&height=662)
 ![CPTCIDR8](https://media.discordapp.net/attachments/919468862725046322/1180457304928296990/image.png?ex=657d7d89&is=656b0889&hm=060b9964c224e78c18210e9ae09c995b129785cc8e88e46c5a75b9e2915f50cd&=&format=webp&quality=lossless&width=1375&height=662)
 ![image](https://github.com/vijawildan/Jarkom-Modul-4-I10-2023/assets/71499142/2eb1e9c3-6fd7-4883-a21d-c3295a27d348)
-### 2. CIDR ROUTING
+### 2. CIDR TREE
+![CIDRTREE](https://cdn.discordapp.com/attachments/919468862725046322/1181949174053339216/image.png?ex=6582eaf2&is=657075f2&hm=a3b575a254ddc3ca58cb097ffeda49b953521b31c18dc95b375f862199175644&)
+
+### 3. CIDR ROUTING
 #### A. ROUTER
 - 1. AURA
 ```
